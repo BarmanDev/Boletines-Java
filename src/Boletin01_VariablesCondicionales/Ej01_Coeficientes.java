@@ -33,6 +33,7 @@ debe indicarlo.
 		}
 		
 		System.out.println("Fin del programa");
+		sc.close();
 	}
 
 }

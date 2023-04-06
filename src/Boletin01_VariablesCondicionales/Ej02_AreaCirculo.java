@@ -18,7 +18,8 @@ public class Ej02_AreaCirculo {
 		area = Math.PI*(radio*radio);
 		
 		System.out.println("El área de la circunderencia del radio " + radio + " es: " + area );
-		
+		sc.close();
+
 	}
 
 }

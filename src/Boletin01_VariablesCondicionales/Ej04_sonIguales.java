@@ -24,6 +24,8 @@ public class Ej04_sonIguales {
 		}
 		
 		System.out.println("Fin del programa");
+		sc.close();
+
 	}
 
 }

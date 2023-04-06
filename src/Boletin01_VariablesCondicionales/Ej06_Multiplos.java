@@ -22,6 +22,8 @@ public class Ej06_Multiplos {
 		}else{
 			System.out.println("No son múltiplos");
 		}
+		sc.close();
+
 		
 	}
 	

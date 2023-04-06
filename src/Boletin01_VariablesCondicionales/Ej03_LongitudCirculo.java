@@ -16,6 +16,8 @@ public class Ej03_LongitudCirculo {
 		longitud = 2 * Math.PI * radio;
 		
 		System.out.println("La longitud de la circunferencia con un radio " + radio + " es: " + longitud);
+		sc.close();
+
 	}
 
 }

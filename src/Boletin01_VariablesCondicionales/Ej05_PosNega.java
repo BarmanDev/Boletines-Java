@@ -25,7 +25,7 @@ public class Ej05_PosNega {
 		}else {
 			System.out.println("Es positivo");
 		}
-		
+		sc.close();
 		
 	}
 
