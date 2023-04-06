@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Ej06_Multiplos {
 
 	public static void main (String args[]) {
-		
+	// 6. Pedir dos números y decir si uno es múltiplo del otro.
+	
 		int num1, num2;
 		
 		Scanner sc = new Scanner (System.in);
